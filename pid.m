@@ -70,3 +70,4 @@ fprintf('arduino and servo\n');
 fprintf('DONE');
 %chitrangna
 %done
+%example
